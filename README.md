@@ -1,1 +1,1 @@
-A U-Net based neural network for image colorization. 
+A U-Net based neural network for image colorization.
